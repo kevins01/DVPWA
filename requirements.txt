@@ -3,7 +3,7 @@ aiohttp-jinja2==0.13.0
 aiohttp-session==0.8.0
 aiopg==0.13.0
 aioredis==0.3.3
-async-timeout==1.2.1
+async-timeout==4.0.3
 chardet==3.0.4
 hiredis==0.2.0
 Jinja2==2.9.6
